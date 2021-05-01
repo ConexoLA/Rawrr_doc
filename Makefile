@@ -17,3 +17,7 @@ doc-build:
 .PHONY: clean
 clean:
 	rm -rf $(THEMEDIR) && rm -rf $(BASEDIR)/public
+
+.PHONY: run-server
+run-server:
+	cd $(BASE_DIR) && hugo server -D
