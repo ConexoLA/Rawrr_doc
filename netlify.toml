@@ -3,7 +3,7 @@ publish = "docs/public"
 command = """hugo \
   --source docs \
   --config docs/config.toml \
-  --themesDir docs/themes/hugo-geekdoc \
+  --themesDir docs/themes \
   --theme hugo-geekdoc """
 
 [build.environment]
