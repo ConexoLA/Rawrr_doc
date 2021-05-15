@@ -2,7 +2,7 @@
 publish = "docs/public"
 command = """hugo \
   --source docs \
-  --config docs/config.toml \
+  --config config.toml \
   --themesDir themes \
   --theme hugo-geekdoc """
 
