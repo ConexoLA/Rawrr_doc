@@ -1,0 +1,22 @@
+---
+main:
+  - name: Usage
+    ref: "/usage"
+    icon: "notification"
+    sub:
+      - name: Getting Started
+        ref: "/usage/getting-started"
+      - name: Installation 
+        ref: "/usage/instalation"
+      - name: Requirements
+        ref: "/usage/requirements"
+  - name: Introduction
+    ref: "/introduction"
+    sub:
+      - name: Rawrr
+        ref: "/introducton/rawrr" 
+  - name: Functions
+    ref: "/functions"
+    sub:
+      - name: Function 1
+        ref: "/functions/function1"
