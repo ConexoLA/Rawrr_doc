@@ -1,7 +1,7 @@
 ---
 title: Vulnerabilidades
 description: 
-geekdocAlign: center
+weight: 6
 ---
 
 {{< toc >}}

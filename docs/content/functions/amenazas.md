@@ -1,7 +1,7 @@
 ---
 title: Amenazas
 description: 
-geekdocAlign: center
+weight: 3
 ---
 
 {{< toc >}}

@@ -1,6 +1,7 @@
 ---
 title: Activos
-description: 
+description
+weight: 2
 ---
 
 {{< toc >}}
