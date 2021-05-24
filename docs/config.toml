@@ -23,13 +23,3 @@ enableGitInfo = true
   geekdocLogo = "logo_rawrr_v_yellow.png"
   geekdocToC= 3
 
-  geekdocRepo="https://github.com/ConexoLA/Rawrr_dev"
-
-  geekdocSearch= true
-  geekdocSearchShowParent= true
-
-  geekdocLegalNotice="https://thegeeklab.de/legal-notice/#contact-information"
-  geekdocPrivacyPolicy="https://thegeeklab.de/legal-notice/#privacy-policy"
-
-  geekdocImageLazyLoading= true
-  geekdocDarkModeDim= true
