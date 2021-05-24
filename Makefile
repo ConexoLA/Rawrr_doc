@@ -1,4 +1,4 @@
-THEME_VERSION := v0.8.2
+THEME_VERSION := v0.13.4
 THEME := hugo-geekdoc
 BASEDIR := docs
 THEMEDIR := $(BASEDIR)/themes
@@ -8,12 +8,12 @@ doc: doc-assets doc-build
 
 .PHONY: doc-assets
 doc-assets:
-	mkdir -p $(THEMEDIR)/$(THEME)/ ; \
+	mkdir -p $(THEMEDIR)/$(THEME)/ ; \ https://github.com/thegeeklab/hugo-geekdoc/releases/download/v0.13.4/hugo-geekdoc.tar.gz
 	curl -sSL "https://github.com/thegeeklab/$(THEME)/releases/download/${THEME_VERSION}/$(THEME).tar.gz" | tar -xz -C $(THEMEDIR)/$(THEME)/ --strip-components=1
 
 .PHONY: doc-build
 doc-build:
-	cd $(BASEDIR); hugo
+	cd docs; hugo
 
 .PHONY: clean
 clean:
@@ -21,4 +21,4 @@ clean:
 
 .PHONY: run-server
 run-server:
-	cd $(BASE_DIR) && hugo server -D
+	cd docs && hugo server -D
