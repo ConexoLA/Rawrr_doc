@@ -1,4 +1,4 @@
-baseURL = "https://rawrrdocs.netlify.app
+baseURL = "https://rawrrdocs.netlify.app" 
 title = "Rawrr Documentation"
 
 pluralizeListTitles = false
