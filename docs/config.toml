@@ -1,7 +1,6 @@
 baseURL = "https://rawrrdocs.netlify.app
 title = "Rawrr Documentation"
 
-
 pluralizeListTitles = false
 
 # Geekdoc required configuration
