@@ -22,4 +22,5 @@ enableGitInfo = true
 [param]
   geekdocLogo = "logo_rawrr_v_yellow.png"
   geekdocToC= 3
+  geekdocMenuBundle = true
 
