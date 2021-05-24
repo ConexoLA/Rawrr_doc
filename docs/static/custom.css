@@ -35,7 +35,7 @@
   }
   @media (prefers-color-scheme: light) {
     :root {
-      --header-background: #4ec58a;
+      --header-background: #4ec58a !important;
       --header-font-color: #ffffff;
   
       --body-background: #ffffff;
