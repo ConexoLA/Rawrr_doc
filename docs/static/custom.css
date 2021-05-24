@@ -7,7 +7,7 @@
   /* Light mode theming */
   :root,
   :root[color-mode="light"] {
-    --header-background: #4ec58a;
+    --header-background: #fc8c04;
     --header-font-color: #ffffff;
   
     --body-background: #ffffff;
@@ -35,7 +35,7 @@
   }
   @media (prefers-color-scheme: light) {
     :root {
-      --header-background: #4ec58a !important;
+      --header-background: #fc8c04 !important;
       --header-font-color: #ffffff;
   
       --body-background: #ffffff;
