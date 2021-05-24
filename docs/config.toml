@@ -1,26 +1,17 @@
-baseURL = "https://rawrrdocs.netlify.app" 
-title = "Rawrr Documentation"
-
-pluralizeListTitles = false
-
-# Geekdoc required configuration
-pygmentsUseClasses = true
-pygmentsCodeFences = true
+baseURL = "https://rawrrdocs.netlify.app"
 disablePathToLower = true
-geekdocMenuBundle = true
 enableGitInfo = true
-
-# Needed for mermaid shortcodes
-[markup]
-  [markup.goldmark.renderer]
-    # Needed for mermaid shortcode
-    unsafe = true
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 9
-
+geekdocMenuBundle = true
+pluralizeListTitles = false
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+title = "Rawrr Documentation"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+endLevel = 9
+startLevel = 1
 [param]
-  geekdocLogo = "logo_rawrr_v_yellow.png"
-  geekdocToC= 3
-  geekdocMenuBundle = true
-
+geekdocLogo = "logo_rawrr_v_yellow.png"
+geekdocMenuBundle = true
+geekdocToC = 3
