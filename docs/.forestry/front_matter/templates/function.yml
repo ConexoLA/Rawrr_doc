@@ -1,4 +1,14 @@
 ---
 label: function
 hide_body: true
-fields: []
+fields:
+- name: label_of_the_field
+  type: text
+  config:
+    required: false
+  label: Label of the Field
+  description: Description
+- name: gallery_of_photos
+  type: image_gallery
+  config: {}
+  label: Gallery of photos
