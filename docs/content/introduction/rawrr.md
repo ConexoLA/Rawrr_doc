@@ -4,19 +4,20 @@ weight: -10
 ---
 
 {{< toc >}}
+
 ## Qué es y para quién está dirigido?
 
 Las intervenciones de seguridad organizacional pueden ser pesadas en términos de recopilación y análisis de datos, revisión de archivos dispersos y creación de informes. Pocas organizaciones y proyectos tienen una imagen clara de su situación, objetivos y riesgos y cómo cada uno cambia en el tiempo con la implementación de medidas de seguridad. Mucho de eso se puede automatizar, lo que haría que ese tiempo se dedicara mejor a otras actividades centrales de OrgSec.
 
 El programa “Risk Assessment Workflow for Recommendation Roadmaps”, que en adelante llamaremos “RAWRR” por sus siglas en inglés, busca ofrecer una solución automatizada a estas necesidades de documentación y análisis durante las intervenciones de seguridad a partir de la adopción de un flujo de trabajo estandarizado, comenzando con el modelado de amenazas y desarrollando todo en torno a las prioridades y riesgos que enfrenta la organización. La versión Alpha de RAWRR incluye la simplificación de la recopilación de datos, la generación de informes y el desarrollo de una hoja de ruta para auditorías y evaluaciones.
 
-### Flujos de trabajo de las intervenciones de seguridad
+## Flujos de trabajo de las intervenciones de seguridad
 
 Los flujos de trabajo están destinados a proporcionar una estructura capaz de incluir múltiples tipos de intervenciones de seguridad. Para lograr eso, algunos pasos son opcionales, los únicos pasos que son obligatorios son las actividades de preevaluación, el desarrollo de recomendaciones y la elaboración de un informe.
 
 RAWRR busca implementar un uso específico de los flujos de trabajo a través de la identificación de los siguientes pasos, divididos en dos secciones: "Relacionados con la evaluación" y "Relacionados con el seguimiento".
 
-###  Pasos del flujo de trabajo relacionados con la evaluación
+## Pasos del flujo de trabajo relacionados con la evaluación
 
 1. Actividades de preevaluación
 
@@ -47,7 +48,7 @@ A partir del modelado de la estructura base y la ejecución de actividades de ev
 1. Creación de informes
     Durante este paso se desarrolla el documento o documentos que se entregarán a la organización. Las opciones como el número de informes, las audiencias objetivo y la información a incluir se realizan aquí. Este paso es obligatorio, ya que un informe es la principal forma de comunicar los resultados de una evaluación. Esto no excluye el interrogatorio, las presentaciones orales u otras formas de transmitir información.
 
-### Pasos del flujo de trabajo relacionados con el seguimiento
+## Pasos del flujo de trabajo relacionados con el seguimiento
 
 1. Actualización del modelo de amenazas
     A medida que pasa el tiempo el modelo de estructura base puede cambiar: pueden aparecer nuevas amenazas y riesgos, los activos antiguos pueden retirarse. Durante este paso, ese modelo se mantiene actualizado y las vulnerabilidades relacionadas con él se pueden actualizar o documentar. Este paso es opcional.
