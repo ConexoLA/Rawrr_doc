@@ -40,9 +40,9 @@
   
       --body-background: #ffffff;
       --body-font-color: #343a40;
-  
-      --button-background: #62cb97;
-      --button-border-color: #4ec58a;
+
+      --button-background: #fc8c04;
+      --button-border-color: #FF8c04;
   
       --link-color: #518169;
       --link-color-visited: #c54e8a;
@@ -65,14 +65,14 @@
   
   /* Dark mode theming */
   :root[color-mode="dark"] {
-    --header-background: #4ec58a;
+    --header-background: #fc8c04;
     --header-font-color: #ffffff;
   
     --body-background: #343a40;
     --body-font-color: #ced3d8;
-  
-    --button-background: #62cb97;
-    --button-border-color: #4ec58a;
+
+    --button-background: #fc8c04;
+    --button-border-color: #FF8c04;
   
     --link-color: #7ac29e;
     --link-color-visited: #c27a9e;
@@ -93,14 +93,14 @@
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --header-background: #4ec58a;
+      --header-background: #fc8c04;
       --header-font-color: #ffffff;
   
       --body-background: #343a40;
       --body-font-color: #ced3d8;
   
-      --button-background: #62cb97;
-      --button-border-color: #4ec58a;
+    --button-background: #fc8c04;
+    --button-border-color: #FF8c04;
   
       --link-color: #7ac29e;
       --link-color-visited: #c27a9e;
