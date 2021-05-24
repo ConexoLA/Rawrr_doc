@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: docs/content/functions
+  label: Functions
+  create: all
+  match: "**/*"
+- type: directory
   path: docs/content/introduction
   label: Introduction
   create: all
