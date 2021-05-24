@@ -7,6 +7,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
+geekdocMenuBundle = true
 enableGitInfo = true
 
 # Needed for mermaid shortcodes
