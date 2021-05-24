@@ -21,7 +21,7 @@ enableGitInfo = true
 
 [param]
   geekdocLogo = "logo_rawrr_v_yellow.png"
-    geekdocToC= 3
+  geekdocToC= 3
 
   geekdocRepo="https://github.com/ConexoLA/Rawrr_dev"
 
