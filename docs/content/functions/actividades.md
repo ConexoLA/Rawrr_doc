@@ -1,10 +1,12 @@
 ---
 title: Actividades
-description: Una vez mapeados los riesgos normalmente seguirán una serie de actividades de evaluación. Algunos ejemplos de esas actividades incluyen entrevistas escaneos técnicos y mapeo adicional de activos o datos. Las funciones básicas de RAWRR relativas a la actividades son
-geekdocAlign: center
+description:
+weight: 1
 ---
 
 {{< toc >}}
+
+Una vez mapeados los riesgos normalmente seguirán una serie de actividades de evaluación. Algunos ejemplos de esas actividades incluyen entrevistas escaneos técnicos y mapeo adicional de activos o datos. Las funciones básicas de RAWRR relativas a la actividades son:
 
 ## Crear actividad
 
