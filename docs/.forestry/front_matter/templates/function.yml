@@ -12,3 +12,5 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery of photos
+pages:
+- docs/content/Functions/function1.md
