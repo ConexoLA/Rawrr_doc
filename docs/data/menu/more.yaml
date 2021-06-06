@@ -1,13 +1,13 @@
 ---
 more:
-  - name: Noticias
+  - name: News
     ref: "/#"
     icon: "notification"
-  - name: Versiones
+  - name: Releases
     ref: "https://github.com/ConexoLA/Rawrr_dev/releases"
     external: true
     icon: "download"
-  - name: "Ver código fuente"
+  - name: "View Source"
     ref: "https://github.com/ConexoLA/Rawrr_dev"
     external: true
     icon: "github"
