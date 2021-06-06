@@ -3,27 +3,29 @@ title: Getting Started
 weight: -20
 ---
 
-This page tells you how to get started with the Geekdoc theme, including installation and basic configuration.
+Esta página explica cómo comenzar a usar Rawrr, incluyendo instalación y configuración básica.
 
 <!--more-->
 
 {{< toc >}}
 
-## Install requirements
+## Requerimientos de la instalación
+
 
 You need a recent version of Hugo for local builds and previews of sites that use Geekdoc. As we are using [gulp](https://gulpjs.com/) as pre-processor the normal version of Hugo is sufficient. If you prefer the extended version of Hugo anyway this will work as well. For comprehensive Hugo documentation, see [gohugo.io](https://gohugo.io/documentation/).
 
 If you want to use the theme from a cloned branch instead of a release tarball you'll need to install `gulp` locally and run the default pipeline once to create all required assets.
 
-```Shell
-# install required packages from package.json
-npm install
+Para instalar los paquetes base que te permiten modificar o generar el ejecutable de Rawrr, corre  el siguiente comando en el directorio base.
 
-# run gulp pipeline to build required assets
-npx gulp default
+```Shell
+# install paquetes de package.json
+npm install
 ```
 
-## Using the theme
+Dependendiendo de la intención de uso de Rawrr, puedes modificar el código usando la funcionalidad de hot-reload de electron o simplemente generar un build.
+
+### Modificando Rawrr usando electron
 
 To prepare your new site environment just a few steps are required:
 
