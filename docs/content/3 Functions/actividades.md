@@ -1,7 +1,7 @@
 ---
 title: Actividades
 description:
-weight: -15
+weight: 2
 ---
 
 {{< toc >}}
