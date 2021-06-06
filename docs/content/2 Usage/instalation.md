@@ -42,7 +42,7 @@ In both cases, you must install all the packages available in `package.json`.
 **Information**\
 At this point you could: 
 
-1. [Modify Rawrr](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend Rawrr. Once you finish your changes, proceed to step 2.
+1. [Modify Rawrr](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend Rawrr. Once you finish your changes, go to step 2.
 2. [Generate the executable](#create-the-rawrr-executable) of Rawrr.
 
 {{< /hint >}}
