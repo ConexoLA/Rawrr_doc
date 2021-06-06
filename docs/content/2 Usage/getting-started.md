@@ -22,7 +22,7 @@ To install the packages that will allow you to modify Rawrr or, in the other cas
 
 {{< hint info >}}
 **Optional**\
-If you need to create the directory you can easily run `mkdir path/to/working/directory`
+If you need to create the directory you can easily run <font color='red'>`mkdir path/to/working/directory`</font>
 
 {{< /hint >}}
 
