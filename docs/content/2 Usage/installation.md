@@ -1,5 +1,5 @@
 ---
-title: Instalation
+title: Installation
 weight: -20
 ---
 
