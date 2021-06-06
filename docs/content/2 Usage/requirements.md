@@ -1,34 +1,35 @@
 ---
-title: Requerimientos
+title: Requirements
 weight: -20
 ---
 
 {{< toc >}}
 
-## Dependencias para generación del ejecutable
+## Dependencies to build Rawrr
 
-Estas dependencias son usadas para crear la imagen de la aplicación. En consecuencia, son necesarias para generar el ejecutable.
+These dependencies are used to build the executable of the application. Therefore, they are necessary and must be installed without exceptions.
 
-En el caso de tener el prefijo ^ indica *al menos* esa versión.
+Some have a prefix ^ which means that we need **at least** that version.
 
 1. [Carbone](https://www.npmjs.com/package/carbone). Version: ^3.1.0
-1. [core-js](https://www.npmjs.com/package/core-js). Version: ^3.12.1
-1. [sqlite3](https://www.npmjs.com/package/sqlite3). Version: ^5.0.2
-1. [vue](https://www.npmjs.com/package/vue). Version: ^2.6.12
-1. [vue-i18n](https://www.npmjs.com/package/vue-i18n). Version: ^8.24.4
-1. [vue-router](https://www.npmjs.com/package/vue-router). Version: ^3.5.1
-1. [vuedraggable](https://www.npmjs.com/package/vuedraggable). Version: ^2.24.3
-1. [vuetify](https://www.npmjs.com/package/vuetify). Version: ^2.5.0
-1. [vuex](https://www.npmjs.com/package/vuex). Version: ^3.6.2
+2. [core-js](https://www.npmjs.com/package/core-js). Version: ^3.12.1
+3. [sqlite3](https://www.npmjs.com/package/sqlite3). Version: ^5.0.2
+4. [vue](https://www.npmjs.com/package/vue). Version: ^2.6.12
+5. [vue-i18n](https://www.npmjs.com/package/vue-i18n). Version: ^8.24.4
+6. [vue-router](https://www.npmjs.com/package/vue-router). Version: ^3.5.1
+7. [vuedraggable](https://www.npmjs.com/package/vuedraggable). Version: ^2.24.3
+8. [vuetify](https://www.npmjs.com/package/vuetify). Version: ^2.5.0
+9. [vuex](https://www.npmjs.com/package/vuex). Version: ^3.6.2
 
-## Dependencias de desarrollador
+## Developer dependencies
 
-Estas dependencias son útiles si quieres modificar Rawrr. 
+These dependencies are helpful if and only if you want to change Rawwr and build a different image. We encourage the user to use a similar setup to the one we used, but it is not mandatory by any means.
+
 
 1. [@kazupon/vue-i18n-loader](https://www.npmjs.com/package/@kazupon/vue-i18n-loader). Version: ^0.5.0
 
     {{< hint danger >}} Warning
-    Este paquete está obsoleto! {{< /hint >}}
+    This package is deprecated! {{< /hint >}}
 
 2. [@vue/cli-plugin-babel](https://www.npmjs.com/package/@vue/cli-plugin-babel). Version: ^4.5.13
 3. [@vue/cli-plugin-eslint](https://www.npmjs.com/package/@vue/cli-plugin-eslint). Version: ^4.5.13
@@ -37,7 +38,7 @@ Estas dependencias son útiles si quieres modificar Rawrr.
 6. [babel-eslint](https://www.npmjs.com/package/babel-eslint). Version: ^10.1.0
 
     {{< hint danger >}} Warning
-    Este paquete está obsoleto! {{< /hint >}}
+    This package is deprecated! {{< /hint >}}
 
 7. [electron](https://www.npmjs.com/package/electron). Version: ^12.0.6
 8. [electron-builder](https://www.npmjs.com/package/electron-builder). Version: ^22.10.5
@@ -54,7 +55,7 @@ Estas dependencias son útiles si quieres modificar Rawrr.
 
 ## Package.json
 
-Actualmente, nuestro `package.json` se ve así:
+If you are an experienced developer, just use the following `package.json` file in the root of the project:
 
 ```json
 {
