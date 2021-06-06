@@ -1,5 +1,5 @@
 ---
-title: Activos
+title: Assets
 description:
 weight: 1
 ---

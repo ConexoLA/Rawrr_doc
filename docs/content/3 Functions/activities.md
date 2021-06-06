@@ -1,5 +1,5 @@
 ---
-title: Actividades
+title: Activities
 description:
 weight: 2
 ---

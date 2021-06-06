@@ -1,5 +1,5 @@
 ---
-title: Vulnerabilidades
+title: Vulnerabilities
 description: 
 weight: 4
 

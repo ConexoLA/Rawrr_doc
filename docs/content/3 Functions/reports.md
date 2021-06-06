@@ -1,5 +1,5 @@
 ---
-title: Reportes
+title: Reports
 description: 
 weight: 6
 ---

@@ -1,5 +1,5 @@
 ---
-title: Recomendaciones
+title: Recommendations
 description:
 weight: 5
 ---
