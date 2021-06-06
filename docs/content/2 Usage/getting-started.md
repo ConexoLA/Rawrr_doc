@@ -9,7 +9,7 @@ This page gives a brief introduction on how to use Rawrr, including both basic i
 
 {{< toc >}}
 
-## Instalation
+## Installation
 
 To install the packages that will allow you to modify Rawrr or, in the other case, to build the executable, please follow these steps:
 
