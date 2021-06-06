@@ -1,5 +1,5 @@
 ---
-title: Functions
+title: 3 Functions
 description: This is the functions main page description
 ---
 
