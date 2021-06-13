@@ -44,13 +44,13 @@ In both cases, you must install all the packages available in `package.json`.
    npm install
    ```
 
-![npm install](/images/npm_install.png)
+![npm install image](/images/npm_install.png)
 
 ### Fixing vulnerabilites
 
 Sometimes, security vulnerabilities are found and updates are available. Below, we show an example:
 
-![npm install](/images/npm_install_fix.png)
+![npm install fix image](/images/npm_install_fix.png)
 
 In most cases, we encourage the user to run the comman `npm audit fix`
 
@@ -87,11 +87,11 @@ npm run electron:serve
 
 This command, will start a development server to test your application (as you can see in the image below).
 
-![npm install](/images/serve.png)
+![Serve image](/images/serve.png)
 
 After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
 
-![npm install](/images/dev_mode.png)
+![Dev mode image](/images/dev_mode.JPG)
 
 ### Create the Rawrr executable
 
