@@ -16,7 +16,7 @@ To install the packages that will allow you to modify Rawrr or, in the other cas
 
 {{< hint info >}}
 **Optional**\
-If you need to create the directory you can easily run `mkdir path/to/working/directory`
+If you need to create the directory you can easily run <span style="color:grey">**`mkdir path/to/working/directory`**</span>
 
 {{< /hint >}}
 
@@ -38,6 +38,30 @@ In both cases, you must install all the packages available in `package.json`.
    npm install
    ```
 
+![npm install](/images/npm_install.png)
+
+### Fixing vulnerabilites
+
+Sometimes, security vulnerabilities are found and updates are available. Below, we show an example:
+
+![npm install](/images/npm_install_fix.png)
+
+In most cases, we encourage the user to run the comman `npm audit fix`
+
+The usual output of this command is as follows:
+
+   ```Shell 
+   fixed X of Y vulnerabilities in Z scanned packages
+   Y-X vulnerabilities required manual review and could not be updated
+   ``` 
+
+Where:
+
+1. X is the number of vulnerabilties solved.
+2. Y was the total number of vulnerabilities to be solved.
+3. Z is the number of packages that were scanned
+4. Y-X is the number of vulnerabilities that should be solved manually.
+
 {{< hint info >}}
 **Information**\
 At this point you could: 
@@ -54,6 +78,15 @@ If you want to modify Rawrr using the hot reaload option from electron, you can 
 ```Shell
 npm run electron:serve
 ```
+
+This command, will start a development server to test your application (as you can see in the image below).
+
+![npm install](/images/serve.png)
+
+After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
+
+![npm install](/images/dev_mode.png)
+
 ### Create the Rawrr executable
 
 If you want to generate the executable of Rawrr, use the following command:
