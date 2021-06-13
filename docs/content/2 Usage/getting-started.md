@@ -84,6 +84,15 @@ If you want to modify Rawrr using the hot reaload option from electron, you can 
 ```Shell
 npm run electron:serve
 ```
+
+This command, will start a development server to test your application (as you can see in the image below).
+
+![npm install](/images/serve.png)
+
+After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
+
+![npm install](/images/dev_mode.png)
+
 ### Create the Rawrr executable
 
 If you want to generate the executable of Rawrr, use the following command:
