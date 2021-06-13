@@ -44,6 +44,9 @@ In both cases, you must install all the packages available in `package.json`.
    npm install
    ```
 
+![npm install](/images/npm_install.png)
+
+
 {{< hint info >}}
 **Information**\
 At this point you could: 
