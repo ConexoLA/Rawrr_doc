@@ -6,7 +6,7 @@ weight: -20
 {{< toc >}}
 
 {{< columns >}}
-{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installaton{{< /button >}}
+{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installation{{< /button >}}
 
 <--->
 
@@ -143,3 +143,12 @@ If you are an experienced developer, just use the following `package.json` file 
   ]
 }
 ```
+
+{{< columns >}}
+{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installation{{< /button >}}
+
+<--->
+
+{{< button size="large" relref="#" >}}  <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}

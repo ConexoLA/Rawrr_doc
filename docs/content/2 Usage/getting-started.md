@@ -115,3 +115,12 @@ npm run electron:build
 ### Limitation 1
 
 ### Limitation 2
+
+{{< columns >}}
+{{< button size="large" relref="#" >}}<i class="arrow left"></i> {{< /button >}}
+
+<--->
+
+{{< button size="large" relref="installation" >}} Installation <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}

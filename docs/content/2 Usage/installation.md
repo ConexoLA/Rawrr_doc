@@ -103,3 +103,12 @@ If you want to generate the executable of RAWRR, use the following command:
 ```Shell
 npm run electron:build
 ```
+
+{{< columns >}}
+{{< button size="large" relref="getting-started" >}}<i class="arrow left"></i> Getting started{{< /button >}}
+
+<--->
+
+{{< button size="large" relref="requirements" >}} Requirements <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}
