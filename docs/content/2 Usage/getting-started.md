@@ -3,7 +3,7 @@ title: Getting Started
 weight: -20
 ---
 
-This page gives a brief introduction on how to use Rawrr, including both basic installation and configuration.
+This page gives a brief introduction on how to use RAWRR, including both basic installation and configuration.
 
 <!--more-->
 
@@ -11,9 +11,9 @@ This page gives a brief introduction on how to use Rawrr, including both basic i
 
 ## Installation
 
-To install the packages that will allow you to modify Rawrr or, in the other case, to build the executable, please follow these steps:
+To install the packages that will allow you to modify RAWRR or, in the other case, to build the executable, please follow these steps:
 
-1. Select the base directory in which you want to download Rawrr.
+1. Select the base directory in which you want to download RAWRR.
    
    ```Shell
    # Modify the working directory
@@ -26,7 +26,7 @@ If you need to create the directory you can easily run <span style="color:grey">
 
 {{< /hint >}}
 
-2. Clone our Rawrr repository.
+2. Clone our RAWRR repository.
 
    ```Shell
    # Cloning base repository
@@ -35,7 +35,7 @@ If you need to create the directory you can easily run <span style="color:grey">
 
 3. Install dependencies
 
-Depending on the usage you want to give to Rawrr, you may modify the code using the hot-reload functionality or generate the executable by building the project. 
+Depending on the usage you want to give to RAWRR, you may modify the code using the hot-reload functionality or generate the executable by building the project. 
 
 In both cases, you must install all the packages available in `package.json`.
 
@@ -72,14 +72,14 @@ Where:
 **Information**\
 At this point you could: 
 
-1. [Modify Rawrr](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend Rawrr. Once you finish your changes, go to step 2.
-2. [Generate the executable](#create-the-rawrr-executable) of Rawrr.
+1. [Modify RAWRR](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend RAWRR. Once you finish your changes, go to step 2.
+2. [Generate the executable](#create-the-rawrr-executable) of RAWRR.
 
 {{< /hint >}}
 
-### Modify Rawrr using electron
+### Modify RAWRR using electron
 
-If you want to modify Rawrr using the hot reaload option from electron, you can use the following command:
+If you want to modify RAWRR using the hot reaload option from electron, you can use the following command:
 
 ```Shell
 npm run electron:serve
@@ -93,9 +93,9 @@ After the server is launched, you will realize the application is being tested i
 
 ![Dev mode image](/images/dev_mode.JPG)
 
-### Create the Rawrr executable
+### Create the RAWRR executable
 
-If you want to generate the executable of Rawrr, use the following command:
+If you want to generate the executable of RAWRR, use the following command:
 
 ```Shell
 npm run electron:build

@@ -5,7 +5,7 @@ weight: -20
 
 {{< toc >}}
 
-## Dependencies to build Rawrr
+## Dependencies to build RAWRR
 
 These dependencies are used to build the executable of the application. Therefore, they are necessary and must be installed without exceptions.
 
