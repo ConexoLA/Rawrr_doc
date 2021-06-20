@@ -9,6 +9,14 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 
 {{< toc >}}
 
+{{< columns >}}
+
+<--->
+
+{{< button size="large" relref="2 usage/installation/" >}}<i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}
+
 ## Installation
 
 To install the packages that will allow you to modify RAWRR or, in the other case, to build the executable, please follow these steps:
