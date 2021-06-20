@@ -7,16 +7,14 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 
 <!--more-->
 
-{{< toc >}}
+{{< toc  >}}
 
-{{< columns >}}
+<div style="justify-content:  space-between">
 {{< button size="large" relref="#" >}}<i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="installation" >}} Installation <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="installation" style="justify-content:  space-between">}} Installation <i class="arrow right"></i>{{< /button >}}
-
-{{< /columns >}}
+<div>
 
 ## Installation
 
