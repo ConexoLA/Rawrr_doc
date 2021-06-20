@@ -11,7 +11,7 @@ weight: 3
 
 <--->
 
-{{< button size="large" relref="vulnerabilites" >}} Next <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="vulnerabilities" >}} Next <i class="arrow right"></i>{{< /button >}}
 
 {{< /columns >}}
 
