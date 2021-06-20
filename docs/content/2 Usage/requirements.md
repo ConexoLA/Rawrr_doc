@@ -5,6 +5,15 @@ weight: -20
 
 {{< toc >}}
 
+{{< columns >}}
+{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Back{{< /button >}}
+
+<--->
+
+{{< button size="large" relref="#" >}} Next <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}
+
 ## Dependencies to build RAWRR
 
 These dependencies are used to build the executable of the application. Therefore, they are necessary and must be installed without exceptions.

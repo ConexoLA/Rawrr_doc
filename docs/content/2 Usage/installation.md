@@ -5,6 +5,15 @@ weight: -20
 
 {{< toc >}}
 
+{{< columns >}}
+{{< button size="large" relref="getting-started" >}}<i class="arrow left"></i> Back{{< /button >}}
+
+<--->
+
+{{< button size="large" relref="requirements" >}} Next <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}
+
 To install the packages that will allow you to modify RAWRR or, in the other case, to build the executable, please follow these steps:
 
 1. Select the base directory in which you want to download RAWRR.
