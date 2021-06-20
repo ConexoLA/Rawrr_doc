@@ -14,7 +14,7 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 
 <--->
 
-{{< button size="large" relref="#" >}} Next <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="/2-usage/installation" >}} Next <i class="arrow right"></i>{{< /button >}}
 
 {{< /columns >}}
 
