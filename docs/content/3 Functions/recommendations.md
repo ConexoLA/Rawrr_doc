@@ -6,6 +6,15 @@ weight: 5
 
 {{< toc >}}
 
+{{< columns >}}
+{{< button size="large" relref="vulnerabilities" >}}<i class="arrow left"></i> Back{{< /button >}}
+
+<--->
+
+{{< button size="large" relref="reports" >}} Next <i class="arrow right"></i>{{< /button >}}
+
+{{< /columns >}}
+
 Uno de los principales objetivos de la evaluación es producir recomendaciones que, con
 suerte, tendrán un impacto positivo en la seguridad de la organización. Durante este
 paso, esas recomendaciones se especificarán y vincularán a vulnerabilidades. Las
