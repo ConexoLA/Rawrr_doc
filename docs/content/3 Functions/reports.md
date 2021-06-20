@@ -7,7 +7,7 @@ weight: 6
 {{< toc >}}
 
 {{< columns >}}
-{{< button size="large" relref="recommmendations" >}}<i class="arrow left"></i> Back{{< /button >}}
+{{< button size="large" relref="recommendations" >}}<i class="arrow left"></i> Back{{< /button >}}
 
 <--->
 

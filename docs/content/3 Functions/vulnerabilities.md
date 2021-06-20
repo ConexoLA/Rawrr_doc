@@ -11,7 +11,7 @@ weight: 4
 
 <--->
 
-{{< button size="large" relref="recommmendations" >}} Next <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="recommendations" >}} Next <i class="arrow right"></i>{{< /button >}}
 
 {{< /columns >}}
 
