@@ -10,10 +10,11 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 {{< toc >}}
 
 {{< columns >}}
+{{< button size="large" relref="#" >}}<i class="arrow left"></i> Back{{< /button >}}
 
 <--->
 
-{{< button size="large" relref="#" >}}<i class="arrow right">Installation</i>{{< /button >}}
+{{< button size="large" relref="#" >}}<i class="arrow right"></i> Next{{< /button >}}
 
 {{< /columns >}}
 
