@@ -13,7 +13,7 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 
 <--->
 
-{{< button size="large" relref="#" >}}<i class="arrow right"></i>Installation{{< /button >}}
+{{< button size="large" relref="#" >}}<i class="arrow right">Installation</i>{{< /button >}}
 
 {{< /columns >}}
 
