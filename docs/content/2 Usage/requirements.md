@@ -6,11 +6,11 @@ weight: -20
 {{< toc >}}
 
 {{< columns >}}
-{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Back{{< /button >}}
+{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installaton{{< /button >}}
 
 <--->
 
-{{< button size="large" relref="#" >}} Next <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="#" >}}  <i class="arrow right"></i>{{< /button >}}
 
 {{< /columns >}}
 

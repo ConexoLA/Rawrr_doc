@@ -6,11 +6,11 @@ weight: -20
 {{< toc >}}
 
 {{< columns >}}
-{{< button size="large" relref="getting-started" >}}<i class="arrow left"></i> Back{{< /button >}}
+{{< button size="large" relref="getting-started" >}}<i class="arrow left"></i> Getting started{{< /button >}}
 
 <--->
 
-{{< button size="large" relref="requirements" >}} Next <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="requirements" >}} Requirements <i class="arrow right"></i>{{< /button >}}
 
 {{< /columns >}}
 
