@@ -5,14 +5,12 @@ weight: -20
 
 {{< toc >}}
 
-{{< columns >}}
-{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installation{{< /button >}}
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="requirements" >}}<i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="#" >}} Installation <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="#" >}}  <i class="arrow right"></i>{{< /button >}}
-
-{{< /columns >}}
+</div>
 
 ## Dependencies to build RAWRR
 
@@ -144,11 +142,9 @@ If you are an experienced developer, just use the following `package.json` file 
 }
 ```
 
-{{< columns >}}
-{{< button size="large" relref="installation" >}}<i class="arrow left"></i> Installation{{< /button >}}
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="requirements" >}}<i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="#" >}} Installation <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="#" >}}  <i class="arrow right"></i>{{< /button >}}
-
-{{< /columns >}}
+</div>
