@@ -5,18 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: docs/content/functions
-  label: Functions
-  create: all
-  match: "**/*"
-- type: directory
-  path: docs/content/introduction
+  path: docs/content/1 Introduction
   label: Introduction
   create: all
   match: "**/*"
 - type: directory
-  path: docs/content/usage
+  path: docs/content/2 usage
   label: Usage
+  create: all
+  match: "**/*"
+- type: directory
+  path: docs/content/3 Functions
+  label: Functions
   create: all
   match: "**/*"
 - type: directory
