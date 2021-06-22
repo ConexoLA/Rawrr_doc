@@ -8,7 +8,7 @@ weight: -20
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="getting-started" >}} Getting started <i class="arrow left"></i> {{< /button >}}
 
-{{< button size="large" relref="requirements" >}} Installation <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="requirements" >}} Requirements <i class="arrow right"></i>{{< /button >}}
 
 </div>
 
@@ -105,6 +105,6 @@ npm run electron:build
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="getting-started" >}} Getting started <i class="arrow left"></i> {{< /button >}}
 
-{{< button size="large" relref="requirements" >}} Installation <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="requirements" >}} Requirements <i class="arrow right"></i>{{< /button >}}
 
 </div>
