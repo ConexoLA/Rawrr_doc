@@ -6,14 +6,12 @@ weight: 4
 ---
 {{< toc >}}
 
-{{< columns >}}
-{{< button size="large" relref="threats" >}}<i class="arrow left"></i> Back{{< /button >}}
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="threats" >}} Threats <i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="recommendations" >}} Next <i class="arrow right"></i>{{< /button >}}
-
-{{< /columns >}}
+</div>
 
 En el caso estándar un resultado de las actividades de evaluación es encontrar vulnerabilidades. Las mismas se especificarán y vincularán a las actividades que las generaron y los riesgos relacionados. Las funciones básicas de RAWRR relativas a las vulnerabilidades son
 
@@ -30,3 +28,10 @@ Agregando texto en v.
 ## Asociar la vulnerabilidad a las actividades
 
 ## Asociar la vulnerabilidad a las amenazas
+
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="threats" >}} Threats <i class="arrow left"></i> {{< /button >}}
+
+{{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
+
+</div>
