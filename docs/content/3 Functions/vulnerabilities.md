@@ -7,7 +7,7 @@ weight: 4
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="threats" >}} Threats <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="threats" >}} <i class="arrow left"></i> Threats {{< /button >}}
 
 {{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
 
@@ -30,7 +30,7 @@ Agregando texto en v.
 ## Asociar la vulnerabilidad a las amenazas
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="threats" >}} Threats <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="threats" >}} <i class="arrow left"></i> Threats  {{< /button >}}
 
 {{< button size="large" relref="recommendations" >}} Recommentations <i class="arrow right"></i>{{< /button >}}
 
