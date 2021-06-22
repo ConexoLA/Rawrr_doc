@@ -7,19 +7,10 @@ weight: 2
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="assets" >}} Assets <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
 
-{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}}
-
+{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i> {{< /button >}}
 </div>
-
-<div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="assets" >}} Assets<i class="arrow left"></i> {{< /button >}}
-
-{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}}
-
-</div>
-
 
 Una vez mapeados los riesgos normalmente seguirán una serie de actividades de evaluación. Algunos ejemplos de esas actividades incluyen entrevistas escaneos técnicos y mapeo adicional de activos o datos. Las funciones básicas de RAWRR relativas a la actividades son:
 
@@ -48,8 +39,7 @@ Una vez mapeados los riesgos normalmente seguirán una serie de actividades de e
 1. Item
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="assets" >}} Assets <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
 
 {{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}}
-
 </div>

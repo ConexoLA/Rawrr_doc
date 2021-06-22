@@ -7,10 +7,9 @@ weight: 6
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="recommendations" >}} Recommendations <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="recommendations" >}} <i class="arrow left"></i> Recommendations {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
-
 </div>
 
 El resultado principal de una evaluación y la forma más común de comunicarse con la
@@ -19,8 +18,7 @@ informes para diferentes audiencias, por ejemplo, crear un informe para los dire
 técnicas y específicas. Las funciones básicas de RAWRR relativas a los reportes son
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="recommendations" >}} Recommendations <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="recommendations" >}} <i class="arrow left"></i> Recommendations {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
-
 </div>

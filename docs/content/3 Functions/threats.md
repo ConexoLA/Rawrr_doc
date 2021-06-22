@@ -7,10 +7,9 @@ weight: 3
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activities" >}} Activities <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
 
 {{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
-
 </div>
 
 RAWRR utilizará la estructura Riesgos-Vulnerabilidades-Recomendaciones y, por lo tanto, la gestión de amenazas y riesgos es el primer paso lógico Las amenazas se mapean en una matriz de riesgo en función de su impacto en el trabajo de la organización y la probabilidad de ocurrencia como base. Las funciones básicas de RAWRR relativas a las amenazas son
@@ -46,8 +45,7 @@ RAWRR utilizará la estructura Riesgos-Vulnerabilidades-Recomendaciones y, por l
 1. Item
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activities" >}} Activities <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
 
 {{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
-
 </div>
