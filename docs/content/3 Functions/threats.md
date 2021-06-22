@@ -7,7 +7,7 @@ weight: 3
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activites" >}} Activities <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} Activities <i class="arrow left"></i> {{< /button >}}
 
 {{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
 
@@ -46,7 +46,7 @@ RAWRR utilizará la estructura Riesgos-Vulnerabilidades-Recomendaciones y, por l
 1. Item
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="activites" >}} Activities <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} Activities <i class="arrow left"></i> {{< /button >}}
 
 {{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow right"></i>{{< /button >}}
 
