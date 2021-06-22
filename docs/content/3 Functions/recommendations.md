@@ -6,14 +6,14 @@ weight: 5
 
 {{< toc >}}
 
-{{< columns >}}
-{{< button size="large" relref="vulnerabilities" >}}<i class="arrow left"></i> Back{{< /button >}}
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="reports" >}} Reports <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="reports" >}} Next <i class="arrow right"></i>{{< /button >}}
+</div>
 
-{{< /columns >}}
+
 
 Uno de los principales objetivos de la evaluación es producir recomendaciones que, con
 suerte, tendrán un impacto positivo en la seguridad de la organización. Durante este
@@ -49,3 +49,10 @@ funciones básicas de RAWRR relativas a las recomendaciones son:
 1. ITem
 1. Item
 1. Item
+
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="vulnerabilities" >}} Vulnerabilities <i class="arrow left"></i> {{< /button >}}
+
+{{< button size="large" relref="reports" >}} Reports <i class="arrow right"></i>{{< /button >}}
+
+</div>
