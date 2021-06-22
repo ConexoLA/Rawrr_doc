@@ -6,7 +6,7 @@ weight: -20
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} Installation <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 
@@ -144,7 +144,7 @@ If you are an experienced developer, just use the following `package.json` file 
 ```
 
 <div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="installation" >}} Installation <i class="arrow left"></i> {{< /button >}}
+{{< button size="large" relref="installation" >}} <i class="arrow left"></i> Installation {{< /button >}}
 
 {{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 
