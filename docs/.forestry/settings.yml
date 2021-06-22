@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: docs/content/2 usage
+  path: docs/content/2 Usage
   label: Usage
   create: all
   match: "**/*"
