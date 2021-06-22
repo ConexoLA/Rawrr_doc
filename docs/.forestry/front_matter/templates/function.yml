@@ -2,13 +2,33 @@
 label: function
 hide_body: true
 fields:
-- name: label_of_the_field
+- name: tiitle
   type: text
   config:
     required: false
-  label: Label of the Field
+  label: Title
   description: Description
-- name: gallery_of_photos
-  type: image_gallery
-  config: {}
-  label: Gallery of photos
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+- name: weight
+  type: text
+  config:
+    required: false
+  label: Weight
+- name: header
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Header
+  description: '{{&lt; toc &gt;}}&lt;div style="display: flex; justify-content: space-between"&gt;
+    {{&lt; button size="large" relref="threats" &gt;}} &lt;i class="arrow left"&gt;&lt;/i&gt;
+    Threats {{&lt; /button &gt;}}{{&lt; button size="large" relref="recommendations"
+    &gt;}} Recommentations &lt;i class="arrow right"&gt;&lt;/i&gt;{{&lt; /button &gt;}}
+    &lt;/div&gt;'
