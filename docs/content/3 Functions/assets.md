@@ -6,11 +6,19 @@ weight: 1
 
 {{< toc >}}
 
-{{< columns >}}
-{{< button size="large" relref="#" >}}<i class="arrow left"></i> Back{{< /button >}}
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
 
-<--->
+{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i>{{< /button >}}
 
-{{< button size="large" relref="activities" >}} Next <i class="arrow right"></i>{{< /button >}}
+</div>
 
-{{< /columns >}}
+
+# Content
+
+<div style="display: flex; justify-content: space-between">
+{{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
+
+{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i>{{< /button >}}
+
+</div>
