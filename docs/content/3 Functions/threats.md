@@ -54,12 +54,6 @@ You can also delete multiple threats by selecting them in the left box and then 
 
 ![](/images/am-eliminar-3.png)
 
-## Ver matriz de riesgos
-
-1. ITem
-2. Item
-3. Item
-
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
 
