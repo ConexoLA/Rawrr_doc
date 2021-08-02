@@ -1,9 +1,9 @@
 ---
 title: Activities
-description:
-weight: 2
----
+description: 
+weight: "2"
 
+---
 {{< toc >}}
 
 <div style="display: flex; justify-content: space-between">
@@ -12,31 +12,45 @@ weight: 2
 {{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i> {{< /button >}}
 </div>
 
-Una vez mapeados los riesgos normalmente seguirán una serie de actividades de evaluación. Algunos ejemplos de esas actividades incluyen entrevistas escaneos técnicos y mapeo adicional de activos o datos. Las funciones básicas de RAWRR relativas a la actividades son:
+Some examples of the activities include interviews, technical scans, and additional asset or data mapping. The basic functions of RAWRR related to the activities are:
 
-## Crear actividad
+## View activity list
 
-1. ITem
-1. Item
-1. Item
+If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of activities you can click on **“All”** in the lower right next to the phrase “Rows per page”. You can also select to view five (5), ten (10), or fifteen (15) items per page.
 
-## Editar actividad
+![](/images/ac-listar.png)
 
-1. ITem
-1. Item
-1. Item
+## Create activities
 
-## Eliminar actividad
+To add activities, click on **"Add new"** at the top left and complete the fields that will appear in the form: name, description and assets.
 
-1. ITem
-1. Item
-1. Item
+![](/images/ac-nueva-ac.png)
 
-## Ver lista de actividades
+When you are done click on **"Insert"**.
 
-1. ITem
-1. Item
-1. Item
+![](/images/ac-nueva-ac-2.png)
+
+## Edit activities
+
+To edit, click on the pencil icon located to the right of each activity that appears in the existing list.
+
+![](/images/ac-editar-1.png)When you finish editing the name, description and/or asset fields, click **"Update"** to save the changes to the activity you selected.
+
+![](/images/ac-editar-2.png)
+
+## Delete activities
+
+If you want to delete an activity from the list, click on the trash can icon located to the right of each activity that appears in the existing list.
+
+![](/images/ac-eliminar-1.png)
+
+When you click, a confirmation message will appear. If you agree to delete the activity, click **"Delete"**.
+
+![](/images/ac-eliminar-2.png)
+
+You can also delete multiple activities by selecting them in the left box and then clicking **"Delete Activities"**.
+
+![](/images/ac-eliminar-3.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
