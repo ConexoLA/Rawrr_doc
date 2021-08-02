@@ -3,6 +3,6 @@ description = ""
 draft = true
 header = ""
 tiitle = "FAQs"
-weight = ""
+weight = "7"
 
 +++
