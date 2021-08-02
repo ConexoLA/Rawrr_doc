@@ -1,8 +1,8 @@
 ---
 title: Getting Started
-weight: -20
----
+weight: "-20"
 
+---
 This page gives a brief introduction on how to use RAWRR, including both basic installation and configuration.
 
 <!--more-->
@@ -21,35 +21,34 @@ This page gives a brief introduction on how to use RAWRR, including both basic i
 To install the packages that will allow you to modify RAWRR or, in the other case, to build the executable, please follow these steps:
 
 1. Select the base directory in which you want to download RAWRR.
-   
+
    ```Shell
    # Modify the working directory
    cd path/to/working/directory
    ```
 
 {{< hint info >}}
-**Optional**\
+**Optional**  
 If you need to create the directory you can easily run <span style="color:grey">**`mkdir path/to/working/directory`**</span>
 
 {{< /hint >}}
 
-2. Clone our RAWRR repository.
+1. Clone our RAWRR repository.
 
    ```Shell
    # Cloning base repository
    git clone https://github.com/ConexoLA/Rawrr_dev.git
    ```
+2. Install dependencies
 
-3. Install dependencies
-
-Depending on the usage you want to give to RAWRR, you may modify the code using the hot-reload functionality or generate the executable by building the project. 
+Depending on the usage you want to give to RAWRR, you may modify the code using the hot-reload functionality or generate the executable by building the project.
 
 In both cases, you must install all the packages available in `package.json`.
 
-   ```Shell
-   # install paquetes de package.json
-   npm install
-   ```
+```Shell
+# install paquetes de package.json
+npm install
+```
 
 ![npm install image](/images/npm_install.png)
 
@@ -63,10 +62,10 @@ In most cases, we encourage the user to run the comman `npm audit fix`
 
 The usual output of this command is as follows:
 
-   ```Shell 
-   fixed X of Y vulnerabilities in Z scanned packages
-   Y-X vulnerabilities required manual review and could not be updated
-   ``` 
+```Shell 
+fixed X of Y vulnerabilities in Z scanned packages
+Y-X vulnerabilities required manual review and could not be updated
+```
 
 Where:
 
@@ -76,8 +75,8 @@ Where:
 4. Y-X is the number of vulnerabilities that should be solved manually.
 
 {{< hint info >}}
-**Information**\
-At this point you could: 
+**Information**  
+At this point you could:
 
 1. [Modify RAWRR](#modify-rawrr-using-electron) in the case you want to add new functionalities or extend RAWRR. Once you finish your changes, go to step 2.
 2. [Generate the executable](#create-the-rawrr-executable) of RAWRR.
@@ -107,16 +106,3 @@ If you want to generate the executable of RAWRR, use the following command:
 ```Shell
 npm run electron:build
 ```
-
-## Limitations
-
-### Limitation 1
-
-### Limitation 2
-
-<div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="#" >}}<i class="arrow left"></i> {{< /button >}}
-
-{{< button size="large" relref="installation" >}} Installation <i class="arrow right"></i>{{< /button >}}
-
-</div>
