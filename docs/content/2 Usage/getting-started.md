@@ -52,29 +52,7 @@ npm install
 
 ![npm install image](/images/npm_install.png)
 
-### Fixing vulnerabilites
-
-Sometimes, security vulnerabilities are found and updates are available. Below, we show an example:
-
-![npm install fix image](/images/npm_install_fix.png)
-
-In most cases, we encourage the user to run the comman `npm audit fix`
-
-The usual output of this command is as follows:
-
-```Shell 
-fixed X of Y vulnerabilities in Z scanned packages
-Y-X vulnerabilities required manual review and could not be updated
-```
-
-Where:
-
-1. X is the number of vulnerabilties solved.
-2. Y was the total number of vulnerabilities to be solved.
-3. Z is the number of packages that were scanned
-4. Y-X is the number of vulnerabilities that should be solved manually.
-
-{{< hint info >}}
+{< hint info >}}
 **Information**  
 At this point you could:
 
