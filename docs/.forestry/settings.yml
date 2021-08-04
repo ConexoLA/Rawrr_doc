@@ -10,6 +10,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: docs/content/4 Workflows
+  label: Workflows
+  create: all
+  match: "**/*"
+- type: directory
   path: docs/content/1 Introduction
   label: Introduction
   create: all
