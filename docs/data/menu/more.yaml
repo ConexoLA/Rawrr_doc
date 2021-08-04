@@ -1,7 +1,7 @@
 ---
 more:
   - name: Releases
-    ref: "https://github.com/ConexoLA/RAWRR/releases/tag/v1.0.0"
+    ref: "https://github.com/ConexoLA/RAWRR/releases/latest"
     external: true
     icon: "download"
   - name: "View Source"
