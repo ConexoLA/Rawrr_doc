@@ -1,6 +1,6 @@
 ---
-title: FAQs
-description: Desccription of the FAQs page
+title: Workflows
+description: Desccription of the workflows page
 weight: "2"
 
 ---
