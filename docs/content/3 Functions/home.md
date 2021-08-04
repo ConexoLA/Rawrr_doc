@@ -25,6 +25,8 @@ Additionally, three (3) buttons appear:
 
 Then, you will be able to start loading/editing the information related to the security intervention that you are carrying out and RAWRR will help you with the generation of the recommendations report. Information can be loaded in any order, but the order suggested by the navigation bar is: assets, activities, threats, vulnerabilities, recommendations and report.
 
+![](/images/home.png)
+
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="#" >}} <i class="arrow left"></i> {{< /button >}}
 
