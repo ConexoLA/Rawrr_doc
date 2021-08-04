@@ -1,7 +1,7 @@
 ---
 title: FAQs
 description: Desccription of the FAQs page
-weight: "2"
+weight: "3"
 
 ---
 
