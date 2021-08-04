@@ -7,4 +7,4 @@ The following are the basic functions of RAWRR. They respond to the order set ou
 
 To guide you through the instructions we have inserted screenshots in this manual. When you see an orange rectangle over a button, it means that you must click there to perform an action.
 
-![Orange rectangle](/images/cuadricula-naranja.png "Orange rectangle")
+![Orange rectangle](/images/cuadricula-naranja-small.png "Orange rectangle")
