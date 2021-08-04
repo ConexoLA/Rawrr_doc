@@ -1,6 +1,6 @@
 ---
 title: 1 Introduction
-description: This is the introduction main page description
----
+description: 'Here you will find what RAWRR is and who it is for. '
 
-Add here basic description of the introduction.
+---
+Here you will find what RAWRR is and who it is for.
