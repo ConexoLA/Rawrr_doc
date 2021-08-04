@@ -3,7 +3,7 @@ title: Getting Started
 weight: "1"
 
 ---
-You can start using RAWRR by downloading the appropriate binary file from this link or you can see a step by step installation guide below.
+You can start using RAWRR by downloading the appropriate binary file from this link or you can see a step by step installation guide below. 
 
 <!--more-->
 
