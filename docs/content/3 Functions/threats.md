@@ -14,7 +14,7 @@ weight: "4"
 
 RAWRR uses the Risks-Vulnerabilities-Recommendations framework and therefore threat and risk management is one of the first logical steps. Each threat can be assigned a level of impact on the organization's work as well as a level of the probability of occurrence. The basic features of RAWRR related to threats are:
 
-## See list of threats
+## View list of threats
 
 If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any item. To see the full list of threats you can click on "All" in the lower right next to the phrase "Rows per page". You can also select to view five (5), ten (10), or fifteen (15) items per page.
 
