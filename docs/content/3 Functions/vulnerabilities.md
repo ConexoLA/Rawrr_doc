@@ -14,7 +14,7 @@ weight: "5"
 
 One result of the assessment activities is to find vulnerabilities. They can be specified and linked to the activities that generated them and the related risks. The basic functions of RAWRR related to vulnerabilities are:
 
-## See list of vulnerabilities
+## View list of vulnerabilities
 
 If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of vulnerabilities you can click on "All" in the lower right next to the phrase "Rows per page". You can also select to view five (5), ten (10), or fifteen (15) items per page.
 
