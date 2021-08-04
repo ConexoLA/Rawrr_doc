@@ -14,7 +14,7 @@ weight: "6"
 
 One of the main goals of the assessment is to produce recommendations that will hopefully have a positive impact on the security of the organization. During this step, those recommendations will be specified and linked to vulnerabilities. The basic functions of RAWRR related to recommendations are:
 
-## See list of recommendations
+## View list of recommendations
 
 If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the complete list of recommendations you can click on "All" in the lower right next to the phrase "Rows per page". You can also select to view five (5), ten (10), or fifteen (15) items per page.
 
