@@ -24,16 +24,6 @@ sections:
   label: Functions
   create: all
   match: "**/*"
-- type: directory
-  path: docs/content/4 FAQs
-  label: FAQs
-  create: all
-  match: "**/*"
-- type: directory
-  path: docs/content/5 Workflows
-  label: Workflows
-  create: all
-  match: "**/*"
 upload_dir: docs/static/images
 public_path: "/images"
 front_matter_path: ''
