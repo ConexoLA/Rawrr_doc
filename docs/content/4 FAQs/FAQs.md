@@ -7,9 +7,9 @@ weight: "2"
 
 {{< toc >}}
 
-Insert here text
+Insert here text    
 
-# Header
+# Main Head 1
 
 Text
 
@@ -17,4 +17,4 @@ Text
 
 Text
 
-# Header
+# Main Head 2
