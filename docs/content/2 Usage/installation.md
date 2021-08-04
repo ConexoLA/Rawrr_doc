@@ -8,7 +8,7 @@ weight: "-20"
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="getting-started" >}} <i class="arrow left"></i> Getting started  {{< /button >}}
 
-{{< button size="large" relref="requirements" >}} Requirements <i class="arrow right"></i>{{< /button >}}
+{{< button size="large" relref="#" >}} <i class="arrow right"></i>{{< /button >}}
 
 </div>
 
