@@ -2,7 +2,7 @@
 label: function
 hide_body: true
 fields:
-- name: tiitle
+- name: title
   type: text
   config:
     required: false
@@ -32,5 +32,3 @@ fields:
     Threats {{&lt; /button &gt;}}{{&lt; button size="large" relref="recommendations"
     &gt;}} Recommentations &lt;i class="arrow right"&gt;&lt;/i&gt;{{&lt; /button &gt;}}
     &lt;/div&gt;'
-pages:
-- docs/content/4 FAQs/FAQs.md
