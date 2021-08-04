@@ -52,7 +52,7 @@ Depending on the usage you want to give to RAWRR, you may modify the code using 
 In both cases, you must install all the packages available in `package.json`.
 
 ```Shell
-# install paquetes de package.json
+# install package.json packages
 npm install
 ```
 
