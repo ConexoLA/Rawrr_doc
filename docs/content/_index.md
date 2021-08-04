@@ -9,7 +9,6 @@ description: "On this documentation page you can download the Risk Assessment Wo
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
-draft: true
 
 ---
 <!-- markdownlint-capture -->
@@ -25,6 +24,6 @@ draft: true
 
 On this documentation page you can download the Risk Assessment Workflow for Recommendation Roadmaps (RAWRR) program designed to generate reports of organizational security interventions under the SAFETAG methodology.
 
-You will also find the user manual for each of its functions, answers to the most frequent questions and additional information about the workflows that have been used as a basis for the design of the program.
+You will also find the user manual for each of its functions, answers to the most frequent questions and additional information about the workflows that have been used as a basis for the design of the program. 
 
 {{< button size="large" relref="2 usage/getting-started/" >}}Getting Started{{< /button >}}
