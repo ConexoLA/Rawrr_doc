@@ -9,7 +9,7 @@ weight: "2"
 
 Insert here text
 
-# Header
+# Main Header
 
 Text
 
@@ -17,4 +17,4 @@ Text
 
 Text
 
-# Header
+# Main Header 2
