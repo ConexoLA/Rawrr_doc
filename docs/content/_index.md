@@ -22,6 +22,8 @@ geekdocAnchor: false
 
 <!-- markdownlint-restore -->
 
-Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
+On this documentation page you can download the Risk Assessment Workflow for Recommendation Roadmaps (RAWRR) program designed to generate reports of organizational security interventions under the SAFETAG methodology.
+
+You will also find the user manual for each of its functions, answers to the most frequent questions and additional information about the workflows that have been used as a basis for the design of the program.
 
 {{< button size="large" relref="2 usage/getting-started/" >}}Getting Started{{< /button >}}
