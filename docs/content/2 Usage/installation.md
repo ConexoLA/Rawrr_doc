@@ -14,13 +14,11 @@ weight: "2"
 
 RAWRR is an executable and portable file, so it is not necessary to install it as an application on the computer. It is available on Windows, Linux, and MacOS. To obtain it, download the appropriate binary version for your operating system and run it:
 
-RAWRR for Windows
+- RAWRR for [Windows](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Windows.x64.rar)
+- RAWRR for [Linux](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Linux.x64.zip)
+- RAWRR for [MacOS](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/MacOS.x64.zip)
 
-RAWRR for Linux
-
-RAWRR for MacOS
-
-You can also enter the download section at (RAWRR page) or from our documentation page.
+You can also enter the download section at [RAWRR page](https://conexo.org/project/rawrr/) or from our documentation page.
 
 Additionally, you can compile from source code by following the instructions below:
 
