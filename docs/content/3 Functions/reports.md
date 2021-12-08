@@ -18,9 +18,7 @@ The main result of an evaluation and the most common way to communicate with the
 
 To create a report you must select which elements you want it to contain. When you open the Reports section you will find the screen divided into two sections. The one on the right will initially show all the elements, by section, that were loaded in that RAWRR instance. Those elements that you do not want to appear in the report can be removed one by one and will appear on the left side of the screen.
 
-![](/images/rep-1.png)
-
-Content removal can be done in two ways. The first is to individually remove the elements of a section by clicking on the **"Remove"** button located to the right of each element.
+![](/images/report-0.png)Content removal can be done in two ways. The first is to individually remove the elements of a section by clicking on the **"Remove"** button located to the right of each element.
 
 ![](/images/remover.png)
 
@@ -40,11 +38,9 @@ You can also change the order in which each element in a section appears by clic
 
 Once you have selected the contents that you want the report to have, you can export it by clicking on the "Export report" button located above and to the right of the reports section.
 
-![](/images/rep-exportar-1.png)
+![](/images/exportar-1.png)Next, select the format in which you want to export, and in your operating system's dialog, select the name and the desired location for the report.
 
-Next, select the format in which you want to export, and in your operating system's dialog, select the name and the desired location for the report.
-
-![](/images/rep-exportar-2.png)
+![](/images/formatos-exportar.png)
 
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="recommendations" >}} <i class="arrow left"></i> Recommendations {{< /button >}}
