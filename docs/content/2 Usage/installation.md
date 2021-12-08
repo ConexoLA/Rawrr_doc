@@ -14,9 +14,9 @@ weight: "2"
 
 RAWRR is an executable and portable file, so it is not necessary to install it as an application on the computer. It is available on Windows, Linux, and MacOS. To obtain it, download the appropriate binary version for your operating system and run it:
 
-- RAWRR for [Windows](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Windows.x64.rar)
-- RAWRR for [Linux](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Linux.x64.zip)
-- RAWRR for [MacOS](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/MacOS.x64.zip)
+* RAWRR for [Windows](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Windows.x64.rar)
+* RAWRR for [Linux](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/Linux.x64.zip)
+* RAWRR for [MacOS](https://github.com/ConexoLA/RAWRR/releases/download/v1.0.0/MacOS.x64.zip)
 
 You can also enter the download section at [RAWRR page](https://conexo.org/project/rawrr/) or from our documentation page.
 
@@ -79,7 +79,7 @@ This command, will start a development server to test your application (as you c
 
 After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
 
-![Dev mode image](/images/dev_mode.JPG)
+![](/images/image.png)
 
 ### Create the RAWRR executable
 
