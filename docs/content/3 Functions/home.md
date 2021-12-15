@@ -15,7 +15,7 @@ weight: "1"
 
 Some basic notes related to the current status of the program appear on the RAWRR home screen and we invite you to send your comments and recommendations for improvements.
 
-Additionally, three (3) buttons appear:
+Additionally, four (4) buttons appear:
 
 1. **Load test values:** When you open a new instance of RAWRR it will be empty, that is, without preloaded information for any of the sections. Use this button if you want to start using a RAWRR instance using the example values ​​per section.
 2. **Export to file:** RAWRR is designed to handle one organization / intervention per instance. When you have finished uploading the information for an organization, or at any time you wish, you can export a file with the data you have uploaded so far as a backup or to be reused in another instance of RAWRR in the future. The exported file will have the extension .db.
