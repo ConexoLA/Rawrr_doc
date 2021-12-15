@@ -41,7 +41,6 @@ We recommend you use RAWRR within an encrypted container like a virtual machine 
 
 We are working towards a new version of RAWRR in 2022 that potentially has the following new features:
 
-* Spanish version
 * Visualization of the evolution over time by comparing the current state of the organization with past states
 * Management of multiple organizations per instance
 * Accessibility features
