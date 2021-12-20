@@ -60,6 +60,8 @@ At the top in the middle you will find the **"Risk Matrix"** button. You can cli
 
 To see the full name of a threat (and the rest of the associated data), you can hover your cursor over the number that identifies the threat.
 
+![](/images/show-threat-name.png)
+
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
 
