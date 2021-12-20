@@ -19,7 +19,7 @@ To get started, select the language you want to use the program with. At the mom
 
 Additionally, four (4) buttons appear:
 
-1. **Load test values:** When you open a new instance of RAWRR it will be empty, that is, without preloaded information for any of the sections. Use this button if you want to start using a RAWRR instance using the example values ​​per section.
+1. **Load test values:** When you open a new instance of RAWRR it will be empty, that is, without preloaded information for any of the sections. Use this button if you want to start using a RAWRR instance using the example values ​​per section. Test values are only available in English.
 2. **Export to file:** RAWRR is designed to handle one organization / intervention per instance. When you have finished uploading the information for an organization, or at any time you wish, you can export a file with the data you have uploaded so far as a backup or to be reused in another instance of RAWRR in the future. The exported file will have the extension .db.
 3. **Import from file:** It is possible that a security intervention has several similarities with others that you have done in the past. To reuse the information or collaborate with another person, you can import a previously exported .bd file into a new RAWRR instance.
 4. **Delete all data:** Allows you to delete all previously loaded data from the instance.
