@@ -15,6 +15,8 @@ weight: "1"
 
 Some basic notes related to the current status of the program appear on the RAWRR home screen and we invite you to send your comments and recommendations for improvements.
 
+To get started, select the language you want to use the program with. At the moment it is available in English, Spanish and Portuguese (Brazil).
+
 Additionally, four (4) buttons appear:
 
 1. **Load test values:** When you open a new instance of RAWRR it will be empty, that is, without preloaded information for any of the sections. Use this button if you want to start using a RAWRR instance using the example values ​​per section.
