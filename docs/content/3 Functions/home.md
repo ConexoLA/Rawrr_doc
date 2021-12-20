@@ -15,7 +15,7 @@ weight: "1"
 
 Some basic notes related to the current status of the program appear on the RAWRR home screen and we invite you to send your comments and recommendations for improvements.
 
-To get started, select the language you want to use the program with. At the moment it is available in English, Spanish and Portuguese (Brazil).
+To get started, **select the language** you want to use the program with. At the moment it is available in **English, Spanish and Portuguese (Brazil)**.
 
 Additionally, four (4) buttons appear:
 
