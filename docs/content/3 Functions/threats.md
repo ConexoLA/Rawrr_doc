@@ -52,6 +52,14 @@ You can also delete multiple threats by selecting them in the left box and then 
 
 ![](/images/multi-delete-threats.png)
 
+## Risk matrix
+
+At the top in the middle you will find the **"Risk Matrix"** button. You can click at any time during the loading of the threats, or at the end of their identification, to see the graph that identifies each threat with a number and positions it on the graph according to its impact and probability to build the risk matrix of the organization you are evaluating.
+
+![](/images/risk-matrix.png)
+
+To see the full name of a threat (and the rest of the associated data), you can hover your cursor over the number that identifies the threat.
+
 <div style="display: flex; justify-content: space-between">
 {{< button size="large" relref="activities" >}} <i class="arrow left"></i> Activities {{< /button >}}
 
