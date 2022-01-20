@@ -5,7 +5,7 @@ geekdocMenuBundle = true
 pluralizeListTitles = false
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-title = "Rawrr Documentation"
+title = "RAWRR Documentation"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
