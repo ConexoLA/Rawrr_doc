@@ -6,58 +6,56 @@ weight: "2"
 ---
 {{< toc >}}
 
-<div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="home" >}}  <i class="arrow left"></i> Home {{< /button >}}
+<div style="mostrar: flex; justificar contenido: espacio entre"> {{< tamaño del botón="grande" relref="inicio" >}} <i class="flecha izquierda"></i> Inicio { { </botón>}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} Actividades <i class="arrow right"></i> {{< /button >}}
 
 </div>
 
-They are the material and human resources of the organization that it desires to protect. Material resources take into account elements such as devices, software, websites, and servers. The basic functions of RAWRR related to assets are:
+Son los recursos materiales y humanos de la organización que se desea proteger. Los recursos materiales tienen en cuenta elementos como dispositivos, software, sitios web y servidores. Las funciones básicas de RAWRR relacionadas con los activos son:
 
-## View asset list
+## Ver lista de activos
 
-If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of assets you can click on “All” in the lower right next to the phrase “Rows per page”. You can also select to view five (5), ten (10), or fifteen (15) items per page.
+Si ha iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que pueda revisar detenidamente la información precargada antes de crear o editar cualquier elemento. Para ver la lista completa de activos, puede hacer clic en "Todos" en la esquina inferior derecha junto a la frase "Filas por página". También puede seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
 
-![](/images/as-lista.png)
+![](/images/ver-lista.png)
 
-## Create asset
+## Crear activos
 
-To add assets, click on **"Add new"** at the top left and complete the fields that will appear in the form: name, description and category.
+Para agregar activos, haga clic en **"Agregar nuevo"** en la parte superior izquierda y complete los campos que aparecerán en el formulario: nombre, descripción y categoría.
 
-![](/images/as-1.png)
+![](/images/agregar.png)
 
-Categories will help you classify assets. When you are done click on **"Insert"**.
+Las categorías lo ayudan a clasificar los activos. Cuando haya terminado, haga clic en **"Insertar"** .
 
-![](/images/as-crear.png)
+![](/images/agregar2.png)
 
-## Edit asset
+## Editar activo
 
-To edit, click on the pencil icon located to the right of each asset that appears in the existing list.
+Para editar, haga clic en el ícono de lápiz ubicado a la derecha de cada activo que aparece en la lista existente.
 
-![](/images/as-editar.png)
+![](/images/editar.png)
 
-When you finish editing the name, description and/or category fields, click **"Update"** to save the changes to the asset you selected.
+Cuando termine de editar los campos de nombre, descripción y/o categoría, haga clic en **"Actualizar"** para guardar los cambios en el activo que seleccionó.
 
-![](/images/as-editar-2.png)
+![](/images/editar2.png)
 
-## Delete asset
+## Eliminar activo
 
-If you want to remove an asset from the list, click on the trash can icon located to the right of each of the assets that appear in the pre-existing list.
+Si desea eliminar un activo de la lista, haga clic en el icono de papelera ubicado a la derecha de cada uno de los activos que aparecen en la lista preexistente.
 
-![](/images/as-eliminar.png)
+![](/images/eliminar.png)
 
-When you click, a confirmation message will appear. If you agree to delete the asset, click **"Delete"**.
+Al hacer clic, aparecerá un mensaje de confirmación. Si acepta eliminar el recurso, haga clic en **"Eliminar"** .
 
-![](/images/as-eliminar-2.png)
+![](/images/eliminar2.png)
 
-You can also delete multiple assets by selecting them in the left box and then clicking on **“Delete Assets”**.
+También puede eliminar varios activos seleccionándolos en el cuadro de la izquierda y luego haciendo clic en **"Eliminar activos"** .
 
-![](/images/as-delete-varios.png)
+![](/images/eliminar3.png)
 
-<div style="display: flex; justify-content: space-between">
-{{< button size="large" relref="home" >}} <i class="arrow left"> </i> Home {{< /button >}}
+<div style="mostrar: flex; justificar-contenido: espacio entre"> {{< tamaño del botón="grande" relref="inicio" >}} <i class="flecha izquierda"> </i> Inicio { {< /boton >}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} Actividades <i class="arrow right"></i> {{< /button >}}
 
 </div>
