@@ -12,45 +12,45 @@ weight: "2"
 
 </div>
 
-Son los recursos materiales y humanos de la organización que se desea proteger. Los recursos materiales tienen en cuenta elementos como dispositivos, software, sitios web y servidores. Las funciones básicas de RAWRR relacionadas con los activos son:
+They are the material and human resources of the organization that it desires to protect. Material resources take into account elements such as devices, software, websites, and servers. The basic functions of RAWRR related to assets are:
 
-## Ver lista de activos
+## View asset list
 
-Si ha iniciado RAWRR importando un archivo o cargando los valores de prueba, es conveniente que pueda revisar detenidamente la información precargada antes de crear o editar cualquier elemento. Para ver la lista completa de activos, puede hacer clic en "Todos" en la esquina inferior derecha junto a la frase "Filas por página". También puede seleccionar ver cinco (5), diez (10) o quince (15) elementos por página.
+If you have started RAWRR by importing a file or loading the test values, it is convenient that you can carefully review the preloaded information before creating or editing any element. To see the full list of assets you can click on “All” in the lower right next to the phrase “Rows per page”. You can also select to view five (5), ten (10), or fifteen (15) items per page.
 
 ![](/images/ver-lista.png)
 
-## Crear activos
+## Create asset
 
-Para agregar activos, haga clic en **"Agregar nuevo"** en la parte superior izquierda y complete los campos que aparecerán en el formulario: nombre, descripción y categoría.
+To add assets, click on **“Add new”** at the top left and complete the fields that will appear in the form: name, description and category.
 
 ![](/images/agregar.png)
 
-Las categorías lo ayudan a clasificar los activos. Cuando haya terminado, haga clic en **"Insertar"** .
+Categories will help you classify assets. When you are done click on **“Insert”**.
 
 ![](/images/agregar2.png)
 
-## Editar activo
+## Edit asset
 
-Para editar, haga clic en el ícono de lápiz ubicado a la derecha de cada activo que aparece en la lista existente.
+To edit, click on the pencil icon located to the right of each asset that appears in the existing list.
 
 ![](/images/editar.png)
 
-Cuando termine de editar los campos de nombre, descripción y/o categoría, haga clic en **"Actualizar"** para guardar los cambios en el activo que seleccionó.
+When you finish editing the name, description and/or category fields, click **“Update”** to save the changes to the asset you selected.
 
 ![](/images/editar2.png)
 
-## Eliminar activo
+## Delete asset
 
-Si desea eliminar un activo de la lista, haga clic en el icono de papelera ubicado a la derecha de cada uno de los activos que aparecen en la lista preexistente.
+If you want to remove an asset from the list, click on the trash can icon located to the right of each of the assets that appear in the pre-existing list.
 
 ![](/images/eliminar.png)
 
-Al hacer clic, aparecerá un mensaje de confirmación. Si acepta eliminar el recurso, haga clic en **"Eliminar"** .
+When you click, a confirmation message will appear. If you agree to delete the asset, click **“Delete”**.
 
 ![](/images/eliminar2.png)
 
-También puede eliminar varios activos seleccionándolos en el cuadro de la izquierda y luego haciendo clic en **"Eliminar activos"** .
+You can also delete multiple assets by selecting them in the left box and then clicking on **“Delete Assets”**.
 
 ![](/images/eliminar3.png)
 
