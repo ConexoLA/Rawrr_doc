@@ -2,6 +2,7 @@
 title: Assets
 description: 
 weight: "2"
+draft: true
 
 ---
 {{< toc >}}
