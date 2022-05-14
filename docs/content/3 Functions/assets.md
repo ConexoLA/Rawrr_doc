@@ -6,9 +6,9 @@ weight: "2"
 ---
 {{< toc >}}
 
-<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="home" >}} <i class="arrow left"></i> Home { { </button>}}
+<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="home" >}}  <i class="arrow left"></i> Home {{< /button >}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="activities" >}} Activities<i class="arrow right"></i> {{< /button >}}
 
 </div>
 
@@ -54,8 +54,8 @@ You can also delete multiple assets by selecting them in the left box and then c
 
 ![](/images/eliminar3.png)
 
-<div style="display: flex; justify-content: space-between">"> {{< button size="large" relref="home" >}} <i class="arrow left"> </i> Home { {< /button >}}
+<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="home" >}} <i class="arrow left"> </i> Home {{< /button >}}
 
-{{< button size="large" relref="activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
+{{< button size="large" relref="Activities" >}} Activities <i class="arrow right"></i> {{< /button >}}
 
 </div>
