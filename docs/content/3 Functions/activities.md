@@ -6,7 +6,7 @@ weight: "3"
 ---
 {{< toc >}}
 
-<div style="display: flex;justify-content: space-between"> {{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets { {< /button >}}
+<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
 
 {{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i> {{< /button >}} </div>
 
@@ -52,8 +52,6 @@ You can also delete multiple activities by selecting them in the left box and th
 
 ![](/images/actividades-eliminar3.png)
 
-<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="assets" >}} <i class="flecha izquierda"></i> Assets { {< /button >}}
+<div style="display: flex; justify-content: space-between"> {{< button size="large" relref="assets" >}} <i class="arrow left"></i> Assets {{< /button >}}
 
-{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}} 
-
-</div>
+{{< button size="large" relref="threats" >}} Threats <i class="arrow right"></i>{{< /button >}} </div>
