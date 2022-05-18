@@ -79,7 +79,7 @@ This command, will start a development server to test your application (as you c
 
 After the server is launched, you will realize the application is being tested in development mode because the usual tools for developers are activated:
 
-![](/images/image.png)
+![](/images/ingles-1.png)
 
 ### Create the RAWRR executable
 
