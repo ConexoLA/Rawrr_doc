@@ -40,11 +40,25 @@ You can also change the order in which each element in a section appears by clic
 
 Once you have selected the contents that you want the report to have, you can export it by clicking on the "Export report" button located above and to the right of the reports section.
 
-![](/images/reporte-export.png)
+![](/images/export_report_button_en.png)
+
+![](/images/export_report_en.png)
 
 Next, select the format in which you want to export, and in your operating system's dialog, select the name and the desired location for the report.
 
-![](/images/reporte-export1.png)
+![](/images/choose_format_en.png)
+
+## Export thread history
+
+Once you have selected the threat content you want the main report to have, you can export its history by clicking the “Export Threat History” button at the top right of the reports section, to the left of “Export report"
+
+![](/images/export_threat_history_button_en.png)
+
+![](/images/export_threat_en.png)
+
+Next, select the format in which you want to export, and in the dialog of your operating system, select the name and the desired location for the report.
+
+![](/images/choose_format_en.png)
 
 ## About Microsoft Word files (.docx)
 
