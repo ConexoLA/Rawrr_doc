@@ -50,7 +50,7 @@ Next, select the format in which you want to export, and in your operating syste
 
 ## Export thread history
 
-Once you have selected the threat content you want the main report to have, you can export its history by clicking the “Export Threat History” button at the top right of the reports section, to the left of “Export report"
+Once you have selected the threat content you want the main report to have, you can export its history by clicking the **“Export Threat History”** button at the top right of the reports section, to the left of **“Export report".**
 
 ![](/images/export_threat_history_button_en.png)
 
