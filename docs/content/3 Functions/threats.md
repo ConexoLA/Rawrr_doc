@@ -40,6 +40,22 @@ When you finish editing the name, description, threat type, asset, impact and/or
 
 ![](/images/amenazas-editar2.png)
 
+## Thread history
+
+<Text thread history>
+
+![](/images/thread_button_history_en.png)
+
+<Text current values>
+
+![](/images/thread_current_values_en.png)
+
+<Text changes>
+
+![](/images/thread_changes_en.png)
+
+<text back>
+
 ## Delete threat
 
 If you want to delete a threat from the list, click on the trash can icon located to the right of each threat that appears in the pre-existing list.
