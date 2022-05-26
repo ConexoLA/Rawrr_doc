@@ -42,19 +42,19 @@ When you finish editing the name, description, threat type, asset, impact and/or
 
 ## Thread history
 
-<Text thread history>
+To see the timeline when a thread was created or edited, click on the watch icon located to the right of each threat that appears in the pre-existing list.
 
 ![](/images/thread_button_history_en.png)
 
-<Text current values>
+On this screen, you can see the current data of the threat you selected: ID, Name, Description, Type, Asset, Impact and Likelihood.
 
 ![](/images/thread_current_values_en.png)
 
-<Text changes>
+Also, you will be able to see the dates on which the threat was created or edited, and what information had any change.
 
 ![](/images/thread_changes_en.png)
 
-<text back>
+To return to the previous menu, click on the "Back" button, located in the upper left corner of the screen.
 
 ![](/images/thread_back_en.png)
 
