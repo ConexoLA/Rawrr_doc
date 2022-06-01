@@ -40,9 +40,9 @@ When you finish editing the name, description, threat type, asset, impact and/or
 
 ![](/images/amenazas-editar2.png)
 
-## Thread history
+## Threat history
 
-To see the timeline when a thread was created or edited, click on the watch icon located to the right of each threat that appears in the pre-existing list.
+To see the timeline of when a threat was created or edited, click on the watch icon located to the right of each threat that appears in the pre-existing list.
 
 ![](/images/thread_button_history_en.png)
 
